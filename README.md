@@ -25,6 +25,18 @@ Link to add item page design
 https://www.figma.com/design/SCsxRU1esrFG1jqanlAMjU/All-Cards-Page?node-id=0-1&t=qN4ZjEUvANW9zdDm-0
 Link to all cards page design. 
 
+#App Design:
+## Home Screen:
+![image](https://github.com/user-attachments/assets/f480d9f2-3e13-47fd-8e33-890316dc4979)
+
+## Add Item Screen:
+![image](https://github.com/user-attachments/assets/af36d553-e80e-4c2d-a828-7f69f0dd51c4)
+
+## View All Items Screen: 
+![image](https://github.com/user-attachments/assets/d696f015-be2b-41d4-bbf5-3d1bc627f696)
+
+
+
 # Learning: 
 https://www.youtube.com/watch?v=XEdC0s9e3NA&ab_channel=NativeMobileBits
 https://www.delasign.com/blog/android-studio-custom-color/
