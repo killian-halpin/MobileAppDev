@@ -187,7 +187,7 @@ fun PhotoPickerScreen(navController: NavController) {
                     fontWeight = FontWeight.Medium,
                     color = Color.Black
                 ),
-                shape = RoundedCornerShape(12.dp), // Set the corner radius here
+                shape = RoundedCornerShape(12.dp),
                 colors = TextFieldDefaults.textFieldColors(
                     containerColor = Color.LightGray,
                     focusedIndicatorColor = Color.LightGray,
