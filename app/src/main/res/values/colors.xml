@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue_light">#A7C7E7</color>
+    <color name="blue_medium">#639FD8</color>
+    <color name="blue_dark">#33658A</color>
+
+    <color name="green_light">#B4E197</color>
+    <color name="green_medium">#88B04B</color>
+    <color name="green_dark">#597F3F</color>
+
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="gray_dark">#424242</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
